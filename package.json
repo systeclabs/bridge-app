@@ -1,0 +1,8 @@
+{
+  "name": "bridge-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:systeclabs/bridge-app.git",
+  "author": "Ivan Martinez <im@systec.dev>",
+  "license": "MIT"
+}
