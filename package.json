@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:systeclabs/bridge-app.git",
   "author": "Ivan Martinez <im@systec.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.2",
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "@remix-project/remixd": "^0.6.20",
+    "global": "^4.4.0"
+  }
 }
