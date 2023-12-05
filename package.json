@@ -12,5 +12,12 @@
   "dependencies": {
     "@remix-project/remixd": "^0.6.20",
     "global": "^4.4.0"
+  },
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "frontend",
+      "backend"
+    ]
   }
 }
