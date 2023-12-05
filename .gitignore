@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Yarn lockfile
+yarn.lock
+
+# macOS system files
+.DS_Store
+
+# Compiled output for Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Compiled output for Solidity
+/build/
+/.hardhat/
+
+# IDE and editor specific files (optional, adjust as needed)
+.vscode/
+.idea/
+
+# Environmental configuration files (sensitive or project-specific)
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Any other generated or temporary files
+*.log
+*.backup
