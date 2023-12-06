@@ -21,6 +21,7 @@ yarn.lock
 # IDE and editor specific files (optional, adjust as needed)
 .vscode/
 .idea/
+.yarn/
 
 # Environmental configuration files (sensitive or project-specific)
 .env
