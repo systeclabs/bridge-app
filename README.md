@@ -92,14 +92,14 @@ See [License](https://github.com/systeclabs/bridge-app/blob/main/LICENSE) for ri
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/systeclabs/sinapsys.svg?style=for-the-badge
-[contributors-url]: https://github.com/systeclabs/sinapsys/graphs/contributors
+[contributors-url]: https://github.com/systeclabs/bridge-app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/systeclabs/sinapsys.svg?style=for-the-badge
-[forks-url]: https://github.com/systeclabs/sinapsys/network/members
-[stars-shield]: https://img.shields.io/github/stars/systeclabs/sinapsys.svg?style=for-the-badge
-[stars-url]: https://github.com/systeclabs/sinapsys/stargazers
-[issues-shield]: https://img.shields.io/github/issues/systeclabs/sinapsys.svg?style=for-the-badge
-[issues-url]: https://github.com/systeclabs/sinapsys/issues
-[license-shield]: https://img.shields.io/github/license/systeclabs/sinapsys.svg?style=for-the-badge
-[license-url]: https://github.com/systeclabs/sinapsys/blob/main/LICENSE
+[forks-url]: https://github.com/systeclabs/bridge-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/bridge-app/sinapsys.svg?style=for-the-badge
+[stars-url]: https://github.com/systeclabs/bridge-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bridge-app/sinapsys.svg?style=for-the-badge
+[issues-url]: https://github.com/systeclabs/bridge-app/issues
+[license-shield]: https://img.shields.io/github/license/bridge-app/sinapsys.svg?style=for-the-badge
+[license-url]: https://github.com/systeclabs/bridge-app/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ivanmtzaguero
