@@ -22,6 +22,7 @@ yarn.lock
 .vscode/
 .idea/
 .yarn/
+.yarn
 
 # Environmental configuration files (sensitive or project-specific)
 .env
