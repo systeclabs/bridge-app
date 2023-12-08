@@ -20,6 +20,8 @@
     <a href="https://github.com/systeclabs/bridge-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/systeclabs/bridge-app/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/systeclabs/awesome-100k-companies">Remote Jobs</a>
   </p>
 </p>
 
