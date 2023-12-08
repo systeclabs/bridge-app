@@ -45,8 +45,24 @@
 
 ## Description
 
-[BRIDGE](https://brige.systec.dev) is an open source platform to work with smart contracts and wallets in the startup ecosystem.
+[BRIDGE](https://brige.systec.dev) is a Trello-like system that serves as a bridge for developers and startup founders working on tech projects. Founders can create projects and manage tasks assigned to developers on their board. 
 
+The innovative part would be the identification system (I'm checking out Ontology) and smart contracts (Solidity).
+
+## Tech stack
+Web Stack: Vercer/AWS (Serverless), Next.js api
+Backend: Python or Go
+Otonlogy --- DID - Trust-less
+
+## BSB Tools
+- Solidity (Smart contracts)
+- Remix (Remix)
+- Truffle (compilation, testing and deployment)
+- Hardhat (debugging)
+
+## Wallet
+
+Metamask
 ## Installation
 
 ```bash
