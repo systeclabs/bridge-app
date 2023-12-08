@@ -17,8 +17,8 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "frontend",
-      "backend"
+      "frontend/*",
+      "backend/*"
     ]
   }
 }
