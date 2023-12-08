@@ -48,6 +48,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@adraffy/ens-normalize", [\
+      ["npm:1.10.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@adraffy-ens-normalize-npm-1.10.0-7dfdaa4813-10c0.zip/node_modules/@adraffy/ens-normalize/",\
+        "packageDependencies": [\
+          ["@adraffy/ens-normalize", "npm:1.10.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@alloc/quick-lru", [\
       ["npm:5.2.0", {\
         "packageLocation": "../../.yarn/berry/cache/@alloc-quick-lru-npm-5.2.0-eb83517088-10c0.zip/node_modules/@alloc/quick-lru/",\
@@ -2508,6 +2517,14 @@ const RAW_RUNTIME_STATE =
           ["@noble/hashes", "npm:1.3.1"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:1.2.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@noble-curves-npm-1.2.0-9b40ee1239-10c0.zip/node_modules/@noble/curves/",\
+        "packageDependencies": [\
+          ["@noble/curves", "npm:1.2.0"],\
+          ["@noble/hashes", "npm:1.3.2"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@noble/hashes", [\
@@ -3910,6 +3927,13 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
+      ["npm:18.15.13", {\
+        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-18.15.13-14d4d1b98f-10c0.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:18.15.13"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:20.10.4", {\
         "packageLocation": "../../.yarn/berry/cache/@types-node-npm-20.10.4-45b062d723-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
@@ -4325,6 +4349,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/aes-js-npm-3.0.0-fdf135c6be-10c0.zip/node_modules/aes-js/",\
         "packageDependencies": [\
           ["aes-js", "npm:3.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.0.0-beta.5", {\
+        "packageLocation": "../../.yarn/berry/cache/aes-js-npm-4.0.0-beta.5-c70da65547-10c0.zip/node_modules/aes-js/",\
+        "packageDependencies": [\
+          ["aes-js", "npm:4.0.0-beta.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -8127,6 +8158,20 @@ const RAW_RUNTIME_STATE =
           ["@ethersproject/wordlists", "npm:5.7.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:6.9.0", {\
+        "packageLocation": "../../.yarn/berry/cache/ethers-npm-6.9.0-62ae87444b-10c0.zip/node_modules/ethers/",\
+        "packageDependencies": [\
+          ["ethers", "npm:6.9.0"],\
+          ["@adraffy/ens-normalize", "npm:1.10.0"],\
+          ["@noble/curves", "npm:1.2.0"],\
+          ["@noble/hashes", "npm:1.3.2"],\
+          ["@types/node", "npm:18.15.13"],\
+          ["aes-js", "npm:4.0.0-beta.5"],\
+          ["tslib", "npm:2.4.0"],\
+          ["ws", "virtual:62ae87444b8cb98945f5f0408df525153ccde49463f331b06f007beeb92b9b05ced7fa5f97b7edb4b590953d7d9792a9c61b036ec7dc249cec666a5de576594b#npm:8.5.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["ethjs-unit", [\
@@ -8744,6 +8789,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:129c180801e06ed395e4da371c76ab19371e66a3c2230c25e2f8aa53715d8f66998096a34403ac325c10f7034d54eaa1a82bf612b0d4bf56a1d1943388d98f11#npm:10.4.16"],\
           ["eslint", "npm:8.55.0"],\
           ["eslint-config-next", "virtual:129c180801e06ed395e4da371c76ab19371e66a3c2230c25e2f8aa53715d8f66998096a34403ac325c10f7034d54eaa1a82bf612b0d4bf56a1d1943388d98f11#npm:14.0.3"],\
+          ["ethers", "npm:6.9.0"],\
           ["jest", "virtual:129c180801e06ed395e4da371c76ab19371e66a3c2230c25e2f8aa53715d8f66998096a34403ac325c10f7034d54eaa1a82bf612b0d4bf56a1d1943388d98f11#npm:29.7.0"],\
           ["next", "virtual:129c180801e06ed395e4da371c76ab19371e66a3c2230c25e2f8aa53715d8f66998096a34403ac325c10f7034d54eaa1a82bf612b0d4bf56a1d1943388d98f11#npm:14.0.3"],\
           ["postcss", "npm:8.4.32"],\
@@ -16362,6 +16408,13 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
+      ["npm:2.4.0", {\
+        "packageLocation": "../../.yarn/berry/cache/tslib-npm-2.4.0-9cb6dc5030-10c0.zip/node_modules/tslib/",\
+        "packageDependencies": [\
+          ["tslib", "npm:2.4.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:2.4.1", {\
         "packageLocation": "../../.yarn/berry/cache/tslib-npm-2.4.1-36f0ed04db-10c0.zip/node_modules/tslib/",\
         "packageDependencies": [\
@@ -17563,6 +17616,13 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
+      ["npm:8.5.0", {\
+        "packageLocation": "../../.yarn/berry/cache/ws-npm-8.5.0-8e99728c84-10c0.zip/node_modules/ws/",\
+        "packageDependencies": [\
+          ["ws", "npm:8.5.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
       ["virtual:05fce2859dc661f4e124fb51f7c00205209684f2c7db6cdfa10df12fc2dfeac3ba9e6424670fcfc0f5e0ea28c77e1ae27579fee2f968ff7cdd806211ec8e04fa#npm:8.13.0", {\
         "packageLocation": "./.yarn/__virtual__/ws-virtual-9236a833af/3/.yarn/berry/cache/ws-npm-8.13.0-26ffa3016a-10c0.zip/node_modules/ws/",\
         "packageDependencies": [\
@@ -17571,6 +17631,23 @@ const RAW_RUNTIME_STATE =
           ["@types/utf-8-validate", null],\
           ["bufferutil", "npm:4.0.7"],\
           ["utf-8-validate", "npm:6.0.3"]\
+        ],\
+        "packagePeers": [\
+          "@types/bufferutil",\
+          "@types/utf-8-validate",\
+          "bufferutil",\
+          "utf-8-validate"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:62ae87444b8cb98945f5f0408df525153ccde49463f331b06f007beeb92b9b05ced7fa5f97b7edb4b590953d7d9792a9c61b036ec7dc249cec666a5de576594b#npm:8.5.0", {\
+        "packageLocation": "./.yarn/__virtual__/ws-virtual-1caee244bd/3/.yarn/berry/cache/ws-npm-8.5.0-8e99728c84-10c0.zip/node_modules/ws/",\
+        "packageDependencies": [\
+          ["ws", "virtual:62ae87444b8cb98945f5f0408df525153ccde49463f331b06f007beeb92b9b05ced7fa5f97b7edb4b590953d7d9792a9c61b036ec7dc249cec666a5de576594b#npm:8.5.0"],\
+          ["@types/bufferutil", null],\
+          ["@types/utf-8-validate", null],\
+          ["bufferutil", null],\
+          ["utf-8-validate", null]\
         ],\
         "packagePeers": [\
           "@types/bufferutil",\
